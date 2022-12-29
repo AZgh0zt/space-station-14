@@ -1,15 +1,15 @@
-ent-ClothingShoesFlippers = flippers
-    .desc = A pair of rubber flippers that improves swimming ability when worn.
+ent-ClothingShoesFlippers = nadadeiras
+    .desc = Um par de nadadeiras de borracha.
 
-ent-ClothingShoesLeather = leather shoes
-    .desc = Very stylish pair of boots, made from fine leather.
+ent-ClothingShoesLeather = sapatos de couro
+    .desc = Um estiloso par de botas feito em couro refinado.
 
-ent-ClothingShoesSlippers = slippers
-    .desc = Fluffy!
+ent-ClothingShoesSlippers = chinelo
+    .desc = Havaianas.
 
-ent-ClothingShoeSlippersDuck = ducky slippers
-    .desc = Comfy, yet haunted by the ghosts of ducks you fed bread to as a child.
+ent-ClothingShoeSlippersDuck = pantufas de pato
+    .desc = Confortável, porém mortal.
 
-ent-ClothingShoesTourist = tourist shoes
-    .desc = These cheap sandals don't look very comfortable.
+ent-ClothingShoesTourist = sandálias de turista
+    .desc = Esse par de sandálias baratas não parecem nem um pouco confortáveis.
 

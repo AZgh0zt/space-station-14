@@ -1,12 +1,12 @@
 ent-ClothingShoesBootsMag = magboots
-    .desc = Magnetic boots, often used during extravehicular activity to ensure the user remains safely attached to the vehicle.
+    .desc = Um par de botas magnéticas, regularmente utilizadas em atividades extraveículares no espaço.
 
-ent-ClothingShoesBootsMagAdv = advanced magboots
-    .desc = State-of-the-art magnetic boots that do not slow down their wearer.
+ent-ClothingShoesBootsMagAdv = magboots avançadas
+    .desc = Um par melhorado de botas magnéticas, essa versão não diminue a velocidade do movimento do usuário.
 
 ent-ClothingShoesBootsMagBlinding = magboots of blinding speed
     .desc = These would look fetching on a fetcher like you.
 
-ent-ClothingShoesBootsMagSyndie = blood-red magboots
-    .desc = Reverse-engineered magnetic boots that have a heavy magnetic pull. Property of Gorlex Marauders.
+ent-ClothingShoesBootsMagSyndie = magboots vermelhas
+    .desc = Sinta a maldade nesse par de magboots, em coloração vermelha.
 

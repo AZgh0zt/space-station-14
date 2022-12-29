@@ -1,27 +1,27 @@
-ent-ClothingShoesColorBlack = black shoes
-    .desc = Stylish black shoes.
+ent-ClothingShoesColorBlack = tênis preto
+    .desc = Um estiloso par de tênis pretos.
 
-ent-ClothingShoesColorBlue = blue shoes
-    .desc = Stylish blue shoes.
+ent-ClothingShoesColorBlue = tênis azul
+    .desc = Um estiloso par de tênis azuis.
 
-ent-ClothingShoesColorBrown = brown shoes
-    .desc = A pair of brown shoes.
+ent-ClothingShoesColorBrown = tênis marrom
+    .desc = Um estiloso par de tênis marrons.
 
-ent-ClothingShoesColorGreen = green shoes
-    .desc = Stylish green shoes.
+ent-ClothingShoesColorGreen = tênis verde
+    .desc = Um estiloso par de tênis verdes.
 
-ent-ClothingShoesColorOrange = orange shoes
-    .desc = Stylish orange shoes.
+ent-ClothingShoesColorOrange = tênis laranja
+    .desc = Um estiloso par de tênis laranjas.
 
-ent-ClothingShoesColorPurple = purple shoes
-    .desc = Stylish purple shoes.
+ent-ClothingShoesColorPurple = tênis roxo
+    .desc = Um estiloso par de tênis roxos.
 
-ent-ClothingShoesColorRed = red shoes
-    .desc = Stylish red shoes.
+ent-ClothingShoesColorRed = tênis vermelho
+    .desc = Um estiloso par de tênis vermelhos.
 
-ent-ClothingShoesColorWhite = white shoes
-    .desc = Don't take them off at your office Christmas party.
+ent-ClothingShoesColorWhite = tênis branco
+    .desc = Um estiloso par de tênis brancos.
 
-ent-ClothingShoesColorYellow = yellow shoes
-    .desc = Stylish yellow shoes.
+ent-ClothingShoesColorYellow = tênis amarelo
+    .desc = Um estiloso par de tênis amarelos.
 
